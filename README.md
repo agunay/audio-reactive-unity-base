@@ -15,3 +15,6 @@ Alternatively you can just get it as an archived file but I suggest above steps,
 
 # Klak Examples
 These are located under Assets/Klak/Examples/SampleScenes
+
+# LASP
+This package is imported through scopedRegisteries - this means you won't see the package under Assets (e.g. like Klak). You can confirm it's installed through Window -> Package Manager. Examples are located under `Assets/LASP/Assets`
