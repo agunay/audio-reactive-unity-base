@@ -18,3 +18,6 @@ These are located under Assets/Klak/Examples/SampleScenes
 
 # LASP
 This package is imported through scopedRegisteries - this means you won't see the package under Assets (e.g. like Klak). You can confirm it's installed through Window -> Package Manager. Examples are located under `Assets/LASP/Assets`
+
+# KlakLasp
+This package isn't maintained anymore I'm afraid so I haven't add it to this project, this will not work properly. Kejiro says you don't need it, see: https://github.com/keijiro/KlakLasp/issues/5
