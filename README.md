@@ -5,6 +5,10 @@
 
 Alternatively you can just get it as an archived file but I suggest above steps, so you can easily pull the changes if I make further updates.
 
+# To open in Unity
+1. Open Unity Hub
+2. Click on Add and locate your project. I used Unity version 2019.4.21f1 (LTS)
+
 # To pull the latest changes to the repository
 1. On your Terminal, type `cd <path_to_the_project>`.
 2. `git pull origin main`
